@@ -1,0 +1,25 @@
+{
+  "id": "99070e0f-3d6f-40f2-b25f-1852222b90ad",
+  "name": "PurchaseRequests",
+  "publisher": "Bart Permentier",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 90000
+  },
+  "runtime": "2.2",
+  "features": ["TranslationFile"],
+  "showMyCode": true
+}
